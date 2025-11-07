@@ -103,4 +103,4 @@ Universidad Mariano Gálvez de Guatemala
 
 ## Licencia
 
-Proyecto académico - Universidad Mariano Gálvez de Guatemala © 2024
+Proyecto académico - Universidad Mariano Gálvez de Guatemala © 2025
